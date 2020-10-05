@@ -16,6 +16,10 @@
 
 Hi, I'm [Jonas Nasser](https://www.linkedin.com/in/jonas-nasser-959b281a3/), a Python study🐍 from Brazil, SP.
 
+
+
+
+
 ![FEFEFFEFE](https://twilio-cms-prod.s3.amazonaws.com/images/header.width-808.gif)
 
 
