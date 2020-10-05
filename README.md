@@ -20,7 +20,7 @@ Hi, I'm [Jonas Nasser](https://www.linkedin.com/in/jonas-nasser-959b281a3/), a P
 
 
 
-![FEFEFFEFE](https://twilio-cms-prod.s3.amazonaws.com/images/header.width-808.gif)
+![pyth1](https://github.com/jonasnasser/jonasnasser/blob/main/pyth1.gif)
 
 
 
