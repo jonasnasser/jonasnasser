@@ -6,10 +6,6 @@
   <img align="left" alt="jonasser LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/o_jonasnasser/">
-  <img align="left" alt="ojonasnasser Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=jonasnasser)
 
 <br />
