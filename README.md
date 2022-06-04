@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm [Jonas Nasser](https://www.linkedin.com/in/jonasser/), a Python study🐍 from Brazil, SP.
+Olá, me chamo [Jonas Nasser](https://www.linkedin.com/in/jonasser/), sou estudando de Defesa Cibernética e atualmente atuo como Analista SOC. 
 
 
 
@@ -30,9 +30,7 @@ Hi, I'm [Jonas Nasser](https://www.linkedin.com/in/jonasser/), a Python study�
 
 ### Aonde pode me encontrar?
 #### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-_Personal_
 
-* :star::blush: Fotos, Storys, curiosidades programação **[Instagram](https://www.instagram.com/ojonasnasser)** :v:
-* :star::blush: Algo que não uso muito **[Facebook](https://www.facebook.com/jonas.nasser.5/)** :v:
+* :star::blush: post,curiosidades sobre segurança **[Linkedin](https://www.linkedin.com/in/jonasser/)** :v:
 
-#### ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+  #### ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
