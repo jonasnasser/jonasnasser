@@ -16,7 +16,7 @@ Olá, me chamo [Jonas Nasser](https://www.linkedin.com/in/jonasser/), sou estuda
 
 
 
-![pyth1](pyth1.gif)
+![seccccc.gif](seccccc.gif)
 
 
 
