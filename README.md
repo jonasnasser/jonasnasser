@@ -20,7 +20,7 @@ Olá, me chamo [Jonas Nasser](https://www.linkedin.com/in/jonasser/), sou estuda
 
 
 
-![pyth1](https://github.com/jonasnasser/jonasnasser/blob/main/pyth1.gif)
+![pyth1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.brasilcloud.com.br%2F44-das-empresas-aumentaram-o-investimento-em-seguranca-da-informacao%2F&psig=AOvVaw2e7XMgdz_vGIikPowy0E28&ust=1654444032457000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLCvkLySlPgCFQAAAAAdAAAAABAD)
 
 
 
