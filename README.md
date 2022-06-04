@@ -14,7 +14,7 @@
 
 <br />
 
-Olá, me chamo [Jonas Nasser](https://www.linkedin.com/in/jonasser/), sou estudando de Defesa Cibernética e atualmente atuo como Analista SOC. 
+Olá, me chamo [Jonas Nasser](https://www.linkedin.com/in/jonasser/), sou estudante de Defesa Cibernética e atualmente atuo como Analista SOC. 
 
 
 
