@@ -18,6 +18,8 @@ Olá, me chamo [Jonas Nasser](https://www.linkedin.com/in/jonasser/), sou estuda
 
 ![seccccc.gif](seccccc.gif)
 
+Utilizarei o github para contribuir com a comunidade e ao mesmo tempo levar o meu conhecimento a todos!!! Aqui será abordado assuntos de Segurança, Governança e utilização de ferramentas. 
+
 
 
 
