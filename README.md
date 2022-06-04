@@ -2,11 +2,11 @@
 
 
 
-<a href="https://www.linkedin.com/in/jonas-nasser-959b281a3/">
-  <img align="left" alt="jonasnasser LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/jonasser/">
+  <img align="left" alt="jonasser LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/ojonasnasser/">
+<a href="https://www.instagram.com/o_jonasnasser/">
   <img align="left" alt="ojonasnasser Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 
@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm [Jonas Nasser](https://www.linkedin.com/in/jonas-nasser-959b281a3/), a Python study🐍 from Brazil, SP.
+Hi, I'm [Jonas Nasser](https://www.linkedin.com/in/jonasser/), a Python study🐍 from Brazil, SP.
 
 
 
